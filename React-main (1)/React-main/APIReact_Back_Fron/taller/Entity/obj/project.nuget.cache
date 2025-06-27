@@ -1,0 +1,340 @@
+{
+  "version": 2,
+  "dgSpecHash": "YBgUoR6TAY8=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Ingrid Medina\\react-projects\\React-main (1)\\React-main\\APIReact_Back_Fron\\taller\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.6\\microsoft.data.sqlclient.5.1.6.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.identity.client\\4.61.3\\microsoft.identity.client.4.61.3.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.61.3\\microsoft.identity.client.extensions.msal.4.61.3.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.35.0\\microsoft.identitymodel.jsonwebtokens.6.35.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.identitymodel.logging\\6.35.0\\microsoft.identitymodel.logging.6.35.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.35.0\\microsoft.identitymodel.protocols.6.35.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.35.0\\microsoft.identitymodel.protocols.openidconnect.6.35.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.35.0\\microsoft.identitymodel.tokens.6.35.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.runtime.caching\\6.0.0\\system.runtime.caching.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Ingrid Medina\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.EntityFrameworkCore.SqlServer\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.EntityFrameworkCore.SqlServer'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.EntityFrameworkCore.Tools\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Tools'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.EntityFrameworkCore.Design\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Design'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.EntityFrameworkCore.Design\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Design'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.EntityFrameworkCore\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.EntityFrameworkCore'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.EntityFrameworkCore.Tools\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Tools'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.CodeAnalysis.CSharp.Workspaces\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp.Workspaces'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp.Workspaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.CodeAnalysis.CSharp.Workspaces\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp.Workspaces'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp.Workspaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Logging\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Extensions.Logging'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.EntityFrameworkCore.Abstractions\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Abstractions'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.EntityFrameworkCore.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.EntityFrameworkCore.Analyzers\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Analyzers'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Caching.Memory\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Extensions.Caching.Memory'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Extensions.Caching.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.Formats.Asn1\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='System.Formats.Asn1'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "System.Formats.Asn1"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Configuration.Abstractions\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Extensions.Configuration.Abstractions'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.EntityFrameworkCore.Relational\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Relational'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.DependencyModel\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Extensions.DependencyModel'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Extensions.DependencyModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.CodeAnalysis.Workspaces.MSBuild\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.CodeAnalysis.Workspaces.MSBuild'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.CodeAnalysis.Workspaces.MSBuild"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.CodeAnalysis.Workspaces.MSBuild\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.CodeAnalysis.Workspaces.MSBuild'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.CodeAnalysis.Workspaces.MSBuild"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Build.Framework\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Build.Framework'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Build.Framework"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.DependencyModel\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Extensions.DependencyModel'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Extensions.DependencyModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Build.Framework\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Build.Framework'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Build.Framework"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.CodeAnalysis.CSharp\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.CodeAnalysis.CSharp\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Mono.TextTemplating\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Mono.TextTemplating'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Mono.TextTemplating"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Mono.TextTemplating\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Mono.TextTemplating'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Mono.TextTemplating"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Build.Locator\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Build.Locator'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Build.Locator"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Build.Locator\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Build.Locator'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Build.Locator"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.Text.Json\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='System.Text.Json'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Options\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Extensions.Options'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Extensions.Options"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.DependencyInjection\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Extensions.DependencyInjection'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Logging.Abstractions\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.DependencyInjection.Abstractions\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Extensions.DependencyInjection.Abstractions'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Primitives\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Extensions.Primitives'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Caching.Abstractions\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Extensions.Caching.Abstractions'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Extensions.Caching.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.CodeAnalysis.CSharp\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.CodeAnalysis.CSharp\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Build.Framework\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Build.Framework'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Build.Framework"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.Text.Json\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='System.Text.Json'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Build.Framework\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.Build.Framework'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.Build.Framework"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.IdentityModel.Tokens.Jwt\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='System.IdentityModel.Tokens.Jwt'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "System.IdentityModel.Tokens.Jwt"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.IO.Pipelines\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='System.IO.Pipelines'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "System.IO.Pipelines"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.CodeAnalysis.Common\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.CodeAnalysis.Common'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.CodeAnalysis.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.IO.Pipelines\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='System.IO.Pipelines'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "System.IO.Pipelines"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.CodeAnalysis.Common\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.CodeAnalysis.Common'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.CodeAnalysis.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.CodeAnalysis.Workspaces.Common\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.CodeAnalysis.Workspaces.Common'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.Diagnostics.DiagnosticSource\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='System.Diagnostics.DiagnosticSource'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.CodeAnalysis.Workspaces.Common\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='Microsoft.CodeAnalysis.Workspaces.Common'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.CodeDom\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='System.CodeDom'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "System.CodeDom"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.Text.Encodings.Web\" del origen remoto \"https://packages.camunda.cloud/npm/zeebe.client/FindPackagesById()?id='System.Text.Encodings.Web'&semVerLevel=2.0.0\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'packages.camunda.cloud'",
+      "libraryId": "System.Text.Encodings.Web"
+    }
+  ]
+}
